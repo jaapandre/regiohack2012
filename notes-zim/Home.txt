@@ -1,0 +1,59 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2012-11-22T09:25:47+01:00
+
+====== Home ======
+Created Thursday 22 November 2012
+
+* leefbaarheid
+
+luke wrolesley: mobiele design ook formulieren.  (Giel)
+
+
+todo Jaap-Andre
+[ ] mergen github info/google docs
+[ ] documenteren....
+	[ ] welke bronnen gebruikt/interessant
+[ ] cbs prognose, communicatie
+[ ] leefbaarometer
+	[ ] data?
+[ ] 
+
+
+[ ] benodigde data:
+[ ] 2004/2005 - nu - 2040
+	[ ] bevolkingssamenstelling per regio
+	[ ] onderwijsbehoefte
+		[ ] basisschool
+		[ ] middelbaar onderwijs
+	[ ] winkels
+		[ ] supermarkt
+		[ ] overig
+	[ ] cultuur
+		[ ] restaurants
+		[ ] bioscoop
+		[ ] 'uitgaan'
+	[ ] woningen (leefbaarometer.nl)
+		[ ] 'geschikte woning'
+	[ ] zorg
+		[ ] huisarts
+		[ ] ziekenhuis
+		[ ] aanrijtijden ambulance
+		[ ] kinderopvang
+	[ ] coheseie
+		[ ] sport
+		[ ] carnaval?
+		[ ] theater
+		[ ] restaurant
+
+wat heb je over 30 jaar nog nodig.
+
+=== Ontstaan: ===
+youtube: 14 februari 2005
+facebook: 4 februari 2004
+twitter: maart 2006
+hyves: 2004
+
+todo
+[*] patrick: supermarkt bezorgen
+[ ] rijdende winkels
