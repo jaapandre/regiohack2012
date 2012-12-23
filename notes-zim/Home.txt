@@ -11,12 +11,12 @@ luke wrolesley: mobiele design ook formulieren.  (Giel)
 
 
 todo Jaap-Andre
-[ ] mergen github info/google docs
-[ ] documenteren....
-	[ ] welke bronnen gebruikt/interessant
-[ ] cbs prognose, communicatie
-[ ] leefbaarometer
-	[ ] data?
+[*] mergen github info/google docs
+[*] documenteren....
+	[*] welke bronnen gebruikt/interessant
+[*] cbs prognose, communicatie
+[*] leefbaarometer: mail betekenis data
+	[*] data?
 [ ] 
 
 
